@@ -1,27 +1,26 @@
 # DietFood
 
-**DietFood** est une application web qui aide les utilisateurs diabétiques à trouver des recettes adaptées à leur type de diabète.  
-En précisant le type de diabète (type 1, type 2, etc.), l’utilisateur obtient une liste de repas recommandés et équilibrés.
+**DietFood** is a web application that helps diabetic users find recipes suited to their type of diabetes. By specifying their type of diabetes (type 1, type 2, etc.), the user receives a list of recommended and well-balanced meals.
 
 ---
 
-## Fonctionnalités principales
-- Sélection du type de diabète (Type 1, Type 2, etc.)
-- Affichage automatique de recettes adaptées
-- Interface simple, fluide et responsive
-- Gestion dynamique du contenu avec JavaScript
-- Connexion au serveur local avec PHP et MySQL
+## Main Features
+- Selection of the diabetes type (Type 1, Type 2, etc.)
+- Automatic display of suitable recipes
+- Simple, smooth, and responsive interface
+- Dynamic content management with JavaScript
+- Connection to the local server using PHP and MySQL
 
 ---
 
-## Technologies utilisées
+## Technologies Used
 - **Frontend :** HTML, CSS, JavaScript  
 - **Backend :** PHP  
-- **Serveur local :** XAMPP (Apache, MySQL, phpMyAdmin)
+- **Local server :** XAMPP (Apache, MySQL, phpMyAdmin)
 
 ---
 
-## Installation et exécution
-1. Cloner le dépôt :
+## Installation and execution 
+1. Clone the repository :
    ```bash
    git clone https://github.com/ton_nom/DietFood.git
